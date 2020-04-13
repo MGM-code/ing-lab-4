@@ -1,8 +1,7 @@
 # MATIAS GALLO MENDOZA 
 ### Descripción:
-Enlace a cv del alumno.
-[Curriculum vitae Matias Gallo Mendoza](https://github.com/MGM-code/tp1labIV/blob/master/Repo/CV.md)
+Enlace a resultados trabajo practico n1.
+[TP1-Lab-4-UBP](https://github.com/MGM-code/ing-lab-4/blob/master/ResultadosTP1.md)
 
-[Que es el pull request](https://github.com/MGM-code/tp1labIV/blob/4-PullRequest/Repo/PullRequest.md)
  
 
