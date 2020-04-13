@@ -30,22 +30,22 @@ Crear un nuevo repositorio en dicha página (vacío)
 Asociar el repositorio local creado en el punto 2 al creado en github.
 Subir los cambios locales a github.
 
-![Primer repositorio](https://drive.google.com/open?id=1YtBVYmOI_g3iCLovWH5ce9FsbisyJCJa)
+https://drive.google.com/open?id=1YtBVYmOI_g3iCLovWH5ce9FsbisyJCJa
 
 #### 4- Familiarizarse con el concepto de Pull Request
 Para algunos de los puntos proveer imágenes o videos.
 Crear un branch local y agregar cambios a dicho branch.
 
-![Branch](https://drive.google.com/open?id=1VFlsUobmHBJAWSrfFs6O8epVE943OIRB)
+https://drive.google.com/open?id=1VFlsUobmHBJAWSrfFs6O8epVE943OIRB
 
 El cambio debe ser un archivo md donde se explique que es un pull request y un link a éste en el readme.
 Subir el cambio a dicho branch y crear un pull request.
 
-![Pull Request](https://drive.google.com/open?id=1NUcWZx3YQ7kdIy8PS82ytc9fW5z2DFPg)
+https://drive.google.com/open?id=1NUcWZx3YQ7kdIy8PS82ytc9fW5z2DFPg
 
 Completar el proceso de revisión en github y mergear el PR al branch master.
 
-![Merge](https://drive.google.com/open?id=1WV_lkzw7jG1n6Gic9bR3mRcFLq172Opf)
+https://drive.google.com/open?id=1WV_lkzw7jG1n6Gic9bR3mRcFLq172Opf
 
 #### 5- Mergear código con conflictos
 Para algunos de los puntos proveer imágenes o videos.
@@ -54,16 +54,16 @@ Ejemplos: SmartGit, GitEye, plugin para vscode. pycharm, etc
 Clonar en un segundo directorio de tu equipo el repositorio creado en github.
 En el clon inicial, modificar el CV.md cambiando algunas lineas.
 
-![Clon](https://drive.google.com/open?id=1a51j0QIN4-3m_b5Oh2qB9aBPUyeq4FUN)
+https://drive.google.com/open?id=1a51j0QIN4-3m_b5Oh2qB9aBPUyeq4FUN
 
 Hacer commit y subir el cambio a master a github.
 En el segundo clon también realizar cambios en las mismas líneas que se modificaron en el otro directorio.
 
-![Comparación de codigo](https://drive.google.com/open?id=1yiakWSq9L2UGFG9b0sDN7DLBrEzcmsUF)
+https://drive.google.com/open?id=1yiakWSq9L2UGFG9b0sDN7DLBrEzcmsUF
 
 Intentar subir el cambio, haciendo un commit y push. Mostrar el error que se obtiene.
 
-![Conflictos](https://drive.google.com/open?id=1ZvIe4SV5oqF28kz2omgJtYt8UwlsoE3a)
+https://drive.google.com/open?id=1ZvIe4SV5oqF28kz2omgJtYt8UwlsoE3a
 
 Hacer pull y mergear el código (solo texto por ahora), mostrar la herramienta de mergeo como luce.
 Resolver los conflictos del código.
@@ -75,7 +75,7 @@ Entrar a la página https://learngitbranching.js.org/
 Completar los ejercicios Introduction Sequence
 Opcional - Completar el resto de los ejercicios para ser un experto en Git :D !!!
 
-![Actividades](https://drive.google.com/open?id=16583Np8HIuTKwGFo-XN-0uZXqomFMw_a)
+https://drive.google.com/open?id=16583Np8HIuTKwGFo-XN-0uZXqomFMw_a
 
 #### 7- Crear Repositorio de la materia
 Crear un repositorio para la materia en github. Por ejemplo ing-lab-4 (Diferente al de este trabajo práctico)
